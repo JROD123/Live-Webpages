@@ -1,0 +1,141 @@
+.navbar-light .navbar-brand{
+    color:#38f1e2;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.navbar-nav .navbar-item{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link.disabled{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.bg-light {
+    background-color:#080743!important;
+    line-height: 4rem
+}
+
+.bg-dark {
+    background-color:#38f1e2!important;
+    line-height: 8rem!important;
+}
+
+.btn-outline-success{
+    color:white;
+    border-color:#080743;
+    background-color:#080743;
+}
+
+.btn-outline-success:hover {
+    color:#080743;
+    background-color: rgba(0,123,255,.5);
+    border-color: rgba(0,123,255,.5);
+}
+
+.form-inline{
+    color:rgb(114, 19, 202);
+}
+
+.navbar-green{
+    padding:2rem;
+}
+
+.navbar-light .navbar-brand:hover{
+    color: #38f1e2
+}
+
+.text-muted {
+    color: #38f1e2!important;
+}
+
+.card-footer {
+    background-color: #070742;
+}
+
+h4{
+    font-size: .6rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.card-footer {
+    padding: 3rem;
+}
+
+.forecast {
+    margin: 0;
+    padding: .3rem;
+    background-color: #070742;
+    font-family: 'Open Sans', sans-serif;
+    border-radius:.35rem;
+    font-weight: 400;
+}
+
+.forecast > h1,
+.day-forecast {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+    color:#ffffff
+}
+
+.day-forecast {
+    background: #38f1e2;
+    border-radius:.35rem;
+    padding: .75rem;
+    margin: .75rem;
+}
+
+.day-forecast > h2,
+.day-forecast > p {
+    margin: .2rem;
+    font-size: 1rem;
+    color: #070742
+}
+
+.day-forecast-2 > h2,
+.day-forecast-2 > p {
+    margin: .75rem;
+    padding: .75rem;
+    font-size: 1rem;
+    background: #ffffff;
+    border-radius:.35rem;
+}
+
+.form-control:focus {
+    box-shadow:0 0 0 0.2rem #070742
+}
+
+.home{
+    height:1.5px;
+    background-color:#38f1e2;
+    width:65px;
+}
+
+.navbar-light .navbar-toggler-icon {
+    color:#ffffff;
+}
+
+.jumbotron-fluid{
+    background-image:url('../images/Background image4.jpg');
+    margin-bottom: 0rem;
+    padding: 5.25rem 2rem;
+}
